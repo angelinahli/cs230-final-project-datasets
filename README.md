@@ -4,7 +4,7 @@ This repository is made to help students considering using a real life dataset a
 
 ## Datasets
 
-Click into each of the links below to explore what these different datasets look like. If you decide a particular dataset looks interesting, you can download that dataset for personal use by **TODO insert instructions here**.
+Click into each of the links below to explore what these different datasets look like. If you decide a particular dataset looks interesting, you can download that dataset for personal use by clicking into your desired dataset file (e.g. cs230-final-project-datasets/blue_bikes/bluebikes_201902.csv), and then clicking 'Download' on the right hand side link.
 1. [Blue Bikes](blue_bikes)
 2. [Eviction Lab](eviction_lab)
 3. [MBTA](mbta)
