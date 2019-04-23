@@ -14,6 +14,8 @@ Click into each of the links below to explore what these different datasets look
     a. [Child-level data](wordbank_by_child)
     b. [Word-level data](wordbank_by_word)
 
+Note: This repository does not contain data from the movie scripts dataset -- you can download scripts from that dataset [at this link instead.](https://osf.io/zytmp/)
+
 ## CSV Reader
 
 If you use a dataset provided in a csv format, download the [csv_parser](csv_parser) folder, and in particular take a look at the [Reader](csv_parser/Reader.java) class to understand how to read rows of your dataset into Java. A very similar class will be provided to you as part of Assignment 7.
